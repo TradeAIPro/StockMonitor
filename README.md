@@ -30,7 +30,7 @@ Steps to Run the Application:
     
     bashCopy code
     
-    `java -jar build/libs/<jar_filename>.jar`
+    `java -jar StockMonitor-0.0.1-SNAPSHOT.jar.jar`
     
     Note: Replace `<jar_filename>` with the name of the jar file that was generated during the build process.
     
