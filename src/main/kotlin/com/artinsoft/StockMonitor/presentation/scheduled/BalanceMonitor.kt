@@ -8,7 +8,7 @@ import org.springframework.stereotype.Controller
 class BalanceMonitor(
     private val closePositionByBigLoss: ClosePositionByBigLoss
 ) {
-    @Scheduled(fixedDelay = 6000)
+    @Scheduled(fixedDelay = 60000)
     fun balanceMonitor(){
         closePositionByBigLoss.closePositions()
     }

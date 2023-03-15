@@ -1,6 +1,6 @@
 bingx:
-  apiKey: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-  secretKey: xxxxxxxxxxxxxxxxxxxxxx
+  apiKey: xxxxxxxxxxxxxxxxxxxxxxxxxx
+  secretKey: xxxxxxxxxxxxxxxxxxxx
   url: https://api-swap-rest.bingbon.pro
   baseMargin: 1000
   lossPercent: 12
